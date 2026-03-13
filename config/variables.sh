@@ -10,8 +10,8 @@ export AMI_WINDOWS="ami-0f9c44e98edf38a2b"
 export INSTANCE_TYPE_UNIX="t2.micro"
 export INSTANCE_TYPE_WINDOWS="t2.medium"
 
-export SG_UNIX_NAME="sg-unix-instances"
-export SG_WINDOWS_NAME="sg-windows-instances"
+export SG_UNIX_NAME="unix-instances-sg"
+export SG_WINDOWS_NAME="windows-instances-sg"
 
 export UNIX_INSTANCE_1_NAME="linux-amazon-01"
 export UNIX_INSTANCE_2_NAME="linux-ubuntu-01"

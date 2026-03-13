@@ -5,7 +5,7 @@ export KEY_FILE="./outputs/${KEY_PAIR_NAME}.pem"
 
 export AMI_AMAZON_LINUX="ami-0c02fb55956c7d316"
 export AMI_UBUNTU="ami-0557a15b87f6559cf"
-export AMI_WINDOWS="ami-0f9c44e98edf38a2b"
+export AMI_WINDOWS="ami-05856bd26dd466893"
 
 export INSTANCE_TYPE_UNIX="t3.micro"
 export INSTANCE_TYPE_WINDOWS="t3.medium"

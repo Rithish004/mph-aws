@@ -7,8 +7,8 @@ export AMI_AMAZON_LINUX="ami-0c02fb55956c7d316"
 export AMI_UBUNTU="ami-0557a15b87f6559cf"
 export AMI_WINDOWS="ami-0f9c44e98edf38a2b"
 
-export INSTANCE_TYPE_UNIX="t2.micro"
-export INSTANCE_TYPE_WINDOWS="t2.medium"
+export INSTANCE_TYPE_UNIX="t3.micro"
+export INSTANCE_TYPE_WINDOWS="t3.medium"
 
 export SG_UNIX_NAME="unix-instances-sg"
 export SG_WINDOWS_NAME="windows-instances-sg"
